@@ -1,2 +1,0 @@
-# first_program
-first
